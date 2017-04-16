@@ -1,0 +1,29 @@
+{
+  "name": "movie-block",
+  "version": "1.0.0",
+  "description": "NA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashley-Stanbridge/Movie-Block.git"
+  },
+  "author": "Ashley Stanbridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashley-Stanbridge/Movie-Block/issues"
+  },
+  "homepage": "https://github.com/Ashley-Stanbridge/Movie-Block#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "steal": "^1.4.2",
+    "steal-tools": "^1.3.0"
+  }
+}
